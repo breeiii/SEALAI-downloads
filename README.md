@@ -2,7 +2,7 @@
 
 **[Download SEALAI.apk](https://github.com/breeiii/SEALAI-downloads/releases/latest/download/SEALAI.apk)**
 
-Version **1.0.7** - Android **7.0 or later**. No GitHub account or sign-in is needed to download.
+Version **1.0.8** - Android **7.0 or later**. No GitHub account or sign-in is needed to download.
 
 ## Install on your phone
 
@@ -11,9 +11,9 @@ Version **1.0.7** - Android **7.0 or later**. No GitHub account or sign-in is ne
 3. If Android asks, allow your browser or file manager to install apps, then tap **Install**.
 4. Open SEALAI and sign in to access your team's data, or select **Explore with demo data**.
 
-This release updates the official versions 1.0.1 through 1.0.6 using the same signing key. Install it over the existing app to retain its data. If an older development build causes a signing conflict, export any needed local data before uninstalling that development build.
+This release updates the official versions 1.0.1 through 1.0.7 using the same signing key. Install it over the existing app to retain its data. If an older development build causes a signing conflict, export any needed local data before uninstalling that development build.
 
-Version 1.0.7 improves phone layouts: Sort by stays beside a wider search field, species summary cards show juvenile and mature counts, total detections, and population status without sideways scrolling, and device overview cards use larger labels, icons, and counts across the available width. Desktop summary tables and PDF reports remain available. All survey sorting, location filters, transitions, and earlier security fixes remain included.
+Version 1.0.8 adds **Back to top** after scrolling in Dashboard, Survey Summary, Survey Sessions, and Devices. It returns to the page heading, supports keyboard navigation and reduced-motion settings, and hides while navigation or a dialog is open. The dashboard map legend and Explore map control now stay behind the phone navigation drawer. Earlier phone layout improvements, survey sorting, location filters, transitions, and security fixes remain included.
 
 [Release notes](https://github.com/breeiii/SEALAI-downloads/releases/latest) - [SHA-256 checksum](https://github.com/breeiii/SEALAI-downloads/releases/latest/download/SEALAI.apk.sha256)
 
